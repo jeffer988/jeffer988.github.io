@@ -1,0 +1,3 @@
+# Pulse Escape Studio
+# AdMob publisher ID pending account verification.
+# This file will be updated with the authorized seller line before production ads are enabled.
